@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**lpenaloza16/lpenaloza16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Header 1
 - 🔭 I’m currently working on ...
@@ -15,4 +11,3 @@ Header 3
 Header 4
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
