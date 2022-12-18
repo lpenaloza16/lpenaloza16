@@ -1,12 +1,2 @@
-<h4>😎At the moment</h4>
-<ul>
-  <li>🔭 I’m currently working on Mastermind (formerly Charted) (Study Tool)</li>
-  <li>🌱 I’m currently learning React with Next</li>
-  <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
-</ul>
-<h4>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h4>
-<ul>
-  <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
-  <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
-  <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
-</ul>
+<p>I am currently working on a project called Mastermind (formerly known as Charted), which is a study tool designed to help people in their academic endeavors. I am also learning React with Next, a popular JavaScript library and framework for building web applications and user interfaces. In addition to these projects, I also create educational games and tools for children and adults, with a focus on cross-platform development.
+My work involves a range of processes, including designing and building software, testing and debugging code, and constantly improving my skills and knowledge in the field through ongoing learning and professional development. Overall, my goal is to create intuitive and user-friendly products that are easy to use and understand.</p>
