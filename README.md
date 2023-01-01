@@ -6,12 +6,15 @@ Web Developer
 
 I am currently working on a project called Mastermind (formerly known as Charted), which is a study tool designed to help people in their academic endeavors. I am also learning React, a JavaScript library and framework for building web applications and user interfaces. In addition to these projects, I also create educational games and tools for children and adults, with a focus on cross-platform development. My work involves a range of processes, including designing and building software, testing and debugging code, and improving my skills and knowledge in the field through ongoing learning and professional development. Overall, my goal is to create products that are easy to use and understand.
 
-*   🌍  I'm based in California
-*   🖥️  See my portfolio at [Leo's Developer Portfolio](http://leopenaportfolio.netlify.app/)
-*   🧠  I'm learning NextJS
-*   🤝  I'm open to collaborating on projects that involve building software for students and tools to help users organize and plan information. These types of tools can be useful in improving efficiency and productivity. I am excited to work on projects that can have a positive impact on people's lives.
-*   ⚡  Computer Science Major<a href="https://www.github.com/lpenaloza16" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/lpenaloza16?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>### Skills 
+*   🌍  I'm based in California
+*   🖥️  See my portfolio at [Leo's Developer Portfolio](http://leopenaportfolio.netlify.app)
+*   🧠  I'm learning NextJS
+*   🤝  I'm open to collaborating on projects that involve building software for students and tools to help users organize and plan information. These types of tools can be useful in improving efficiency and productivity. I am excited to work on projects that can have a positive impact on people's lives.
+*   ⚡  Computer Science Major
+<a href="https://www.github.com/lpenaloza16" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/lpenaloza16?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
+
+### Skills 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a>
@@ -42,14 +45,17 @@ I am currently working on a project called Mastermind (formerly known as Charted
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
                     
-                  ### Socials
+
+### Socials
                   
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/lpenaloza16" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/leonel-penaloza-78645a133/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/lpenaloza16"><img src="https://github-readme-stats.vercel.app/api?username=lpenaloza16&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="lpenaloza16's GitHub stats" /></a><a
-                      href="http://www.github.com/lpenaloza16"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=lpenaloza16&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/lpenaloza16" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpenaloza16&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="left"> <a href="https://www.github.com/lpenaloza16" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/leonel-penaloza-78645a133/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/lpenaloza16"><img src="https://github-readme-stats.vercel.app/api?username=lpenaloza16&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="lpenaloza16's GitHub stats" /></a>
+
+<a href="http://www.github.com/lpenaloza16"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lpenaloza16&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/lpenaloza16" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpenaloza16&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
