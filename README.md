@@ -1,32 +1,33 @@
-# Leo Pena
+# Leo Penaloza  
+**Full-Stack Developer**  
 
-🌍 Based in California | 🖥️ [Portfolio](your-portfolio-link) | 🔗 [LinkedIn](your-linkedin-url)
+## Core Expertise  
+Building scalable web apps with **React, Node.js, TypeScript, and REST/GraphQL APIs**. Focused on clean architecture, testing, and CI/CD pipelines.  
 
-## Web Developer
+## 🛠️ Technical Stack  
+**Frontend:** React, Next.js, TypeScript, Electron  
+**Backend:** Node.js, Express, GraphQL  
+**Databases:** MongoDB, PostgreSQL  
+**DevOps:** AWS (EC2/S3), Docker, Jenkins, GitHub Actions  
+**Testing:** Jest, Unit/Integration Testing  
 
-Creating efficient and effective software solutions with a focus on web applications and user interfaces. Always up-to-date with the latest technologies.
+## Key Projects  
+### Collaborative Platform  
+- **Stack:** React, Socket.io, GraphQL  
+- Real-time document sharing and chat system for teams.  
 
-- 🧠 Learning **NextJS**
-- 🤝 Open to collaboration on projects involving software for students and organizational tools
+### Learning Toolkit  
+- **Stack:** React, Node.js, MongoDB  
+- Modular flashcard system with spaced repetition.  
 
-## 🛠️ Skills
+### Automation Tools  
+- **Stack:** Node.js, TypeScript, REST APIs  
+- Backend services for task automation (500+ daily ops).  
 
-- **Languages:** TypeScript, Rust, Python, JavaScript, Java, C++
-- **Tools & Libraries:** Babel, Webpack, Redux, Material UI, Bootstrap, TailwindCSS, Sass, CSS3, JQuery, Gatsby, NextJS, React, HTML5
-- **Back-end:** NodeJS, Express, GraphQL
-- **Databases:** MongoDB, MySQL, PostgreSQL, Firebase
-- **Design:** Figma
-
-## 🏅 Badges
-
-### GitHub Statistics
-
-<a href="http://www.github.com/lpenaloza16">
-  <img src="your-github-stats-url" alt="GitHub Stats" height="150" align="left">
-</a>
-<a href="http://www.github.com/lpenaloza16">
-  <img src="your-github-top-languages-url" alt="Top Languages" height="150" align="left">
+## 📈 GitHub Activity  
+<a href="https://github.com/lpenaloza16">
+  <img src="https://github-readme-stats.vercel.app/api?username=lpenaloza16&show_icons=true&theme=dark&hide=issues" height="150" alt="Stats" align="left">
 </a>
 <a href="https://github.com/lpenaloza16">
-  <img src="your-github-streak-url" alt="GitHub Streak" height="150" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpenaloza16&layout=compact&theme=dark" height="150" alt="Top Languages" align="left">
 </a>
